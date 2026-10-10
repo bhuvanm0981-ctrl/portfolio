@@ -1,2 +1,2 @@
 # portfolio
-authur-BHUVAN M
+author-BHUVAN M
